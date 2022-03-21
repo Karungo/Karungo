@@ -3,9 +3,9 @@
 <center>
   <table>
   <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=i1d9&show_icons=true&include_all_commits=true&count_private=true&icon_color=de5085&theme=radical" alt="Karungo's github stats" /></td>
-      <td><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=i1d9&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=i1d9&layout=compact&langs_count=8&hide=html&theme=nightowl&border_radius=15&border_color=#212121" />
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=karungo&show_icons=true&include_all_commits=true&count_private=true&icon_color=de5085&theme=radical" alt="Karungo's github stats" /></td>
+      <td><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=karungo&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karungo&layout=compact&langs_count=8&hide=html&theme=nightowl&border_radius=15&border_color=#212121" />
 </a>
 </td>
   </tr>   
